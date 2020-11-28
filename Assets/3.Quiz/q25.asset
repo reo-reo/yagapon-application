@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b24c9a206dbda40a898ff4866d2dbb85, type: 3}
+  m_Name: q25
+  m_EditorClassIdentifier: 
+  question: "\u3084\u304C\u307D\u3093\u306F2017\u5E74\u306B\u751F\u307E\u308C\u305F\u3002"
+  answer: 0
+  explanation: "\u6B63\u89E3\u306F\u25EF\u307D\u3093\u3002\u3084\u304C\u307D\u3093\u304C\u751F\u308C\u305F\u306E\u306F\u7B2C18\u56DE\u77E2\u4E0A\u796D\u306E\u3068\u304D\u3060\u307D\u3093\u3002\u307E\u3060\u307E\u3060\u65B0\u7C73\u306E\u30AD\u30E3\u30E9\u30AF\u30BF\u30FC\u3060\u307D\u3093\u3002\u3088\u308D\u307D\u3093\u306D\uFF01"
+  un: 0
+  st: 0
+  yf: 0
+  yp: 2
+  ko: 0

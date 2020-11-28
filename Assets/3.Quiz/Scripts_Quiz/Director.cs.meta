@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 8eaacd2398a1a46408037d5c9073ed45
+timeCreated: 1534410371
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - que: {instanceID: 0}
+  - exp: {instanceID: 0}
+  - m: {instanceID: 0}
+  - b: {instanceID: 0}
+  - n: {instanceID: 0}
+  - message: {instanceID: 0}
+  - r: {instanceID: 0}
+  - rcl: {instanceID: 0}
+  - rcp: {instanceID: 0}
+  - rb: {instanceID: 0}
+  - number: {instanceID: 0}
+  - dblist: {fileID: 11400000, guid: f3c9376c7078746cbb981a2b77d6c060, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
